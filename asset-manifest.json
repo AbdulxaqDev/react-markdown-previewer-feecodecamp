@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-markdown-previewer-feecodecamp/static/css/main.4e543d86.css",
+    "main.js": "/react-markdown-previewer-feecodecamp/static/js/main.8f141e74.js",
+    "index.html": "/react-markdown-previewer-feecodecamp/index.html",
+    "main.4e543d86.css.map": "/react-markdown-previewer-feecodecamp/static/css/main.4e543d86.css.map",
+    "main.8f141e74.js.map": "/react-markdown-previewer-feecodecamp/static/js/main.8f141e74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e543d86.css",
+    "static/js/main.8f141e74.js"
+  ]
+}
