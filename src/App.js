@@ -64,7 +64,7 @@ function anotherExample(firstLine, lastLine) {
     return multiLineCode;
   }
 }
-\`\`\`
+\`\`\`javascript
 
 You can also make text **bold**... whoa!
 Or _italic_.
