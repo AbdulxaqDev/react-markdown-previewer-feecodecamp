@@ -56,7 +56,7 @@ class App extends Component {
 
 Heres some code, \`<div></div>\`, between 2 backticks.
 
-\`\`\`
+\`\`\`javascript
 // this is multi-line code:
 
 function anotherExample(firstLine, lastLine) {
@@ -64,7 +64,7 @@ function anotherExample(firstLine, lastLine) {
     return multiLineCode;
   }
 }
-\`\`\`javascript
+\`\`\`
 
 You can also make text **bold**... whoa!
 Or _italic_.
